@@ -1,4 +1,4 @@
-# Bayesian Model Averaging - Expectation Maximization in MATLAB and Python
+## Bayesian Model Averaging - Expectation Maximization in MATLAB and Python
 
 ## Description
 
@@ -31,6 +31,13 @@ Ensemble Bayesian model averaging provides a methodology to explicitly handle co
 
 * Vrugt, Jasper A. (jasper@uci.edu) 
 
+## Built-in Case Studies
+
+1. Example 1: 24-hour forecasts of river discharge
+2. Example 2: 48-forecasts of sea surface temperature
+3. Example 3: 48-forecasts of sea surface pressure
+4. Example 11: Forecasts of water levels
+
 ## Version History
 
 * 1.0
@@ -40,3 +47,5 @@ Ensemble Bayesian model averaging provides a methodology to explicitly handle co
     * New built-in case studies and conditional PDFs
 
 ## Acknowledgments
+
+Python toolbox is a translation of MATLAB code. This code has been benchmarked, but MATLAB code is reference. 
